@@ -1,0 +1,1 @@
+Проект можно посмотреть <a href = "https://github.com/Klayc1337/slozhno-sosredotochitsya-ad">здесь</a> <br>
